@@ -104,3 +104,33 @@ button.btn-warning:hover{
   text-shadow: 1px 1px 2px #313;
 }
 /*End Review Styles*/
+
+/*Menu Styles*/
+#menu{
+  background-image: url('../img/black_linen.png');
+  height: 700px;
+}
+
+#menu h1{
+  font-family: 'Lobster', cursive;
+  color: #fff;
+  font-size: 5em;
+}
+.food{
+  background-color: #fff;
+  max-height: 500px;
+  overflow: auto;
+  padding: 8px 12px;
+}
+.nav a{
+  color: #f8512f;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{
+  color: #f8512f;
+  text-transform: uppercase;
+}
+.nav-tabs.nav-justified>.active>a:hover, .nav>li>a:hover{
+  background-color: rgba(255, 255, 255, 0.2);
+  border-color: transparent;
+}
+/*End Menu Styles*/
