@@ -105,6 +105,25 @@ button.btn-warning:hover{
 }
 /*End Review Styles*/
 
+/*Contact Page Styles*/
+#contact{
+  background-color: #f8512f;
+  color: #fff;
+  height: 600px;
+}
+.contact-header{
+  margin: 20px 0px;
+}
+.form-container{
+  border: 2px solid #fff;
+  padding: 20px;
+  background-color: #FF6633;
+}
+iframe{
+  width: 100%;
+}
+/*End Contact Styles*/
+
 /*Menu Styles*/
 #menu{
   background-image: url('../img/black_linen.png');
